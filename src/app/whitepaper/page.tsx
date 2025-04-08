@@ -27,7 +27,7 @@ export default function Whitepaper() {
                 Breaking Free From The System
               </h1>
               <p className="font-brutal text-lg md:text-xl text-white/60 leading-relaxed">
-                YZY token is the backbone of a creator-controlled ecosystem, where Ye's vision for freedom directly connects artists with their audience. No middlemen, no censorship, full ownership.
+                YZY token is the backbone of a creator-controlled ecosystem, where Ye&apos;s vision for freedom directly connects artists with their audience. No middlemen, no censorship, full ownership.
               </p>
             </div>
           </div>
@@ -95,7 +95,7 @@ export default function Whitepaper() {
                   </li>
                   <li className="flex items-start">
                     <span className="mr-2">•</span>
-                    <span>Digital access to select content from Ye's existing creative archives</span>
+                    <span>Digital access to select content from Ye&apos;s existing creative archives</span>
                   </li>
                   <li className="flex items-start">
                     <span className="mr-2">•</span>
@@ -136,7 +136,7 @@ export default function Whitepaper() {
               <h3 className="font-monument text-xl text-white/90 mb-4">Music Ownership</h3>
               <ul className="space-y-3 text-white/60">
                 <li>• Direct album and single releases outside traditional platforms</li>
-                <li>• Token-gated stems and samples from Ye's production vault</li>
+                <li>• Token-gated stems and samples from Ye&apos;s production vault</li>
                 <li>• Exclusive track releases to token holders</li>
                 <li>• Community beat competitions with top entries featured in YZY content</li>
               </ul>
@@ -182,7 +182,7 @@ export default function Whitepaper() {
                 </div>
                 <div>
                   <h4 className="font-brutal text-white/90 mb-2">TRUTH Protocol</h4>
-                  <p className="text-white/60">Custom censorship-resistant messaging protocol built on Solana delivers Ye's existing content directly to token holders, bypassing traditional social media platforms and their content restrictions.</p>
+                  <p className="text-white/60">Custom censorship-resistant messaging protocol built on Solana delivers Ye&apos;s existing content directly to token holders, bypassing traditional social media platforms and their content restrictions.</p>
                 </div>
               </div>
             </div>
